@@ -21,7 +21,7 @@ Generation (RAG) portion of the project.
 ## AWS Services Used
 
 - **Amazon S3**: Storage for dataset and chatbot-related files.
-- **Amazon Lex**: Handles user interactions and processes queries.
+- **Amazon Q&A bot**: Handles user interactions and processes queries.
 - **Amazon Kendra**: Provides intelligent search capabilities.
 - **Amazon Bedrock**: Utilizes high-performing foundation language models (LLMs).
 - **AWS Lambda**: Facilitates serverless computing functions.
